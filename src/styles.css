@@ -10,6 +10,8 @@ body {
 
 .text-center {
   text-align: center;
+  color: white;
+  margin-top: 0;
 }
 
 .grid {
@@ -20,6 +22,7 @@ body {
 .img-responsive {
   width: 100%;
   display: block;
+  aspect-ratio: 1 /1;
 }
 
 .grid-2-columns {
@@ -40,16 +43,11 @@ body {
 }
 
 .instagram-embeds {
-  background: rgb(44, 36, 36);
-  margin: 30px 0;
-}
-
-.instagram-embeds {
   margin: 30px 0;
 }
 
 .card {
-  background: rgb(43, 40, 40);
+  background: rgb(26, 23, 23);
   margin: 30px 0;
 }
 
